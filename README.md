@@ -23,6 +23,7 @@ The dataset consists of images of three species of flowers categorized into thre
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Run the main Python program `flowerSeg.py`.
 4. The segmented images will be saved in the `output` folder categorized into easy, medium, and hard sub-folders.
+5. Once output images have been generated, run the `test.py` to compare the output images to the ground truths.
 
 ## File Structure
 
